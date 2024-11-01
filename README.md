@@ -8,4 +8,5 @@ A repo that contains cleaned data for the BadgerMinton games.
 
 `/elo-scores`
 
-- Contains the per-session and cumulative ELO scores.
+- Contains the cumulative ELO scores.
+- TODO: per-session ELO scores
